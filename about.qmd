@@ -1,0 +1,34 @@
+<div>
+
+---
+title: "Matheus M. A. Salles"
+about:
+  template: jolla
+  image: eu.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/salles_math
+    - icon: github
+      text: Github
+      href: https://github.com/sallesmath
+    - icon: buildings
+      text: ORCID
+      href: https://orcid.org/0000-0002-1177-9844
+---
+
+</div>
+
+My name is Matheus, and I am currently a postdoctoral researcher at the Federal University of Paraná ([UFPR](https://ufpr.br/)), where I also earned my degrees in Biology (both Bachelor’s and Teaching License) as well as my Master’s and PhD in Zoology.
+
+My work is rooted in Evolutionary Biology, with a special focus on species delimitation, biodiversity patterns, and the use of artificial intelligence to tackle complex biological questions. I’m particularly interested in how historical and contemporary processes shape the distribution of life on Earth, and how computational tools can help us uncover those stories.
+
+Beyond research itself, I am deeply committed to strengthening Evolutionary Biology in Brazil. I am a founding member of the [Brazilian Society of Evolutionary Biology](https://www.sbbevol.org/) and served as its first Director of Student Affairs, helping create spaces for young researchers to grow and connect. I also worked as an ambassador for the [Brazilian Reproducibility Network](https://www.reprodutibilidade.org/), promoting open science, transparency, and reproducible research practices across the country. Today, I serve on the editorial board of [EcoEvorxiv](https://ecoevorxiv.org/) and as a Data Editor for [PCI Evolutionary Biology](https://evolbiol.peercommunityin.org/).
+
+Outside academia, I have a long-standing passion for science communication (because good science deserves to be understood beyond university walls). I work as a scientific consultant and fact-checker for [TED](https://www.ted.com/about/our-organization/our-policies-terms/ted-science-standards), helping transform complex ideas into clear, engaging, and trustworthy stories. I have also collaborated with platforms such as [Nerdologia](https://www.youtube.com/nerdologia), producing and reviewing science communication content for broader audiences.
+
+I am also one of the founders of [DataChaos](https://www.datachaos.com.br/), a company dedicated to scientific data analysis and visualization, where we turn complex datasets into clear, compelling, and impactful visual stories.
+
+In short: I work somewhere between evolution, data, and storytelling (and I genuinely love that intersection).
+
+Contact: [matheusmaciel.salles\@gmail.com](matheusmaciel.salles@gmail.com)

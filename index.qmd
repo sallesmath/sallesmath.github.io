@@ -1,0 +1,24 @@
+---
+title: ""
+about:
+  template: trestles
+  image: matheus_foto.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/salles_math
+    - icon: github
+      text: Github
+      href: https://github.com/sallesmath
+    - icon: buildings
+      text: ORCID
+      href: https://orcid.org/0000-0002-1177-9844
+---
+
+**Hello!**
+
+I am a Brazilian evolutionary biologist and science communicator interested in understanding how biological diversity is shaped across time and space, and in making complex scientific ideas clearer and more accessible through data-driven storytelling.
+
+On this website, you will find more about me, my publications, my current research, and my main areas of work.
+
+Email: [matheusmaciel.salles\@gmail.com](matheusmaciel.salles@gmail.com)

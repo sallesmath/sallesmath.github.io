@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "c9b042c7"
+  },
+  "about.qmd": {
+    "about.html": "1f79b9e4"
+  },
+  "awards.qmd": {
+    "awards.html": "ad5679a1"
+  },
+  "education.qmd": {
+    "education.html": "2d2f3ca7"
+  },
+  "events.qmd": {
+    "events.html": "b6a904a6"
+  },
+  "info.qmd": {
+    "info.html": "cc924af5"
+  },
+  "research.qmd": {
+    "research.html": "28e49832"
+  },
+  "sci-comm.qmd": {
+    "sci-comm.html": "04e1915d"
+  },
+  "open-sci.qmd": {
+    "open-sci.html": "833558a0"
+  }
+}

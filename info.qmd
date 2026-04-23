@@ -1,0 +1,35 @@
+---
+title: "Additional information"
+---
+
+# Awards
+
+| Year | Award |
+|------------------------------------|------------------------------------|
+| 2023 | Young Investigator Award (Society of Molecular Biology and Evolution) |
+| 2024 | Professor Paulo Lana Award for Academic Distinction (UFPR) |
+| 2025 | Best PhD thesis of the Zoology Graduate Program (UFPR) |
+
+# **Languages**
+
+Portuguese, English, Spanish
+
+# Peer review
+
+Experience as reviewer for multiple international journals, such as:
+
+-   Arthropod Systematics & Phylogeny, Evolution, Journal of Zoological Systematics and Evolutionary Research, Molecular Ecology, Molecular Ecology Resources, NeoBiota
+
+# **Representation roles**
+
+-   Former student’s lead representative of the Zoology Graduate Program at UFPR (2023-2024)
+
+-   Board member of the Brazilian Society of Evolutionary Biology (2024-present)
+
+-   Evolutionary Biology Ambassador at the Brazilian Reproducibility Network
+
+# Data visualization & analysis
+
+-   Proficiency in programming, data visualization and analysis in R, bash, Python and Julia
+
+-   Proficiency in AI and machine learning programming
