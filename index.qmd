@@ -13,6 +13,12 @@ about:
     - icon: buildings
       text: ORCID
       href: https://orcid.org/0000-0002-1177-9844
+    - icon: card-list
+      text: Lattes CV
+      href: http://lattes.cnpq.br/7658919565090053
+    - icon: journal-text
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Matheus-Salles
 ---
 
 **Hello!**
