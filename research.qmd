@@ -4,6 +4,10 @@ title: "Most relevant publications"
 
 ## 2026
 
+Salles MMA, & Domingos FMCB. (**2026**). Mitochondrial genome evolution: the influence of partitioning, calibration, and gene heterogeneity on Pleurodontan substitution rates. *Journal of Molecular Evolution* <https://doi.org/10.1007/s00239-026-10324-5>.
+
+Caron FS, Magalhães FM, Salles MMS, Domingos FMBC. (**2025**). pynnotate: a flexible tool for retrieving and processing GenBank data in molecular evolution research and education. Preprint: *EcoEvoRxiv* <https://doi.org/10.32942/X2294V>.
+
 Laino LL, Neundorf ACA, Feitosa RM, Salles MMA. (**2026**). Digest: Phenotypic plasticity and the genomic signature of novel castes: insights from soldier evolution in *Cephalotes*. *Evolution*, <https://doi.org/10.1093/evolut/qpag012>.
 
 ## 2025
@@ -15,7 +19,5 @@ Salles MMA, et al. (**2025**). Ancient introgression explains mitochondrial geno
 Borges MS, Salles MMA, et al. (**2025**). Gene-specific substitution rates for the Vespertilionidae (Chiroptera: Mammalia) mitochondrial genome, with the description of three new mitogenomes. *Journal of Mol. Evol.*, <https://doi.org/10.1007/s00239-025-10265-5>.
 
 Caron FS, Salles MMA, Domingos FMCB. (**2025**). Digest: Linking life-history evolution and substitution rates in extreme environments. *Evolution*, <https://doi.org/10.1093/evolut/qpaf233>.
-
-Salles MMA, & Domingos FMCB. (**2025**). Mitochondrial genome evolution: the influence of partitioning, calibration, and gene heterogeneity on Pleurodontan substitution rates. Preprint: *EcoEvorRxiv* <https://doi.org/10.32942/X2BW7B>.
 
 Salles MMA, et al. (**2025**). Rethinking knowledge mobilization: transitioning to a dynamic way of publishing biodiversity science. Preprint: *Authorea* <https://doi.org/10.22541/au.174791184.41472229/v1>.
