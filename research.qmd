@@ -6,7 +6,7 @@ title: "Most relevant publications"
 
 Salles MMA, & Domingos FMCB. (**2026**). Mitochondrial genome evolution: the influence of partitioning, calibration, and gene heterogeneity on Pleurodontan substitution rates. *Journal of Molecular Evolution* <https://doi.org/10.1007/s00239-026-10324-5>.
 
-Caron FS, Magalhães FM, Salles MMS, Domingos FMBC. (**2025**). pynnotate: a flexible tool for retrieving and processing GenBank data in molecular evolution research and education. Preprint: *EcoEvoRxiv* <https://doi.org/10.32942/X2294V>.
+Caron FS, Magalhães FM, Salles MMS, Domingos FMBC. (**2026**). pynnotate: a flexible tool for retrieving and processing GenBank data in molecular evolution research and education. Preprint: *EcoEvoRxiv* <https://doi.org/10.32942/X2294V>.
 
 Laino LL, Neundorf ACA, Feitosa RM, Salles MMA. (**2026**). Digest: Phenotypic plasticity and the genomic signature of novel castes: insights from soldier evolution in *Cephalotes*. *Evolution*, <https://doi.org/10.1093/evolut/qpag012>.
 
